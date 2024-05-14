@@ -5,6 +5,7 @@ editor: visual
 ---
 
 ```{r}
-plot(mtcars)
+library(dplyr)
+library(ggplot2)
 ```
 
